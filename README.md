@@ -1,2 +1,243 @@
 # 2125
 【超全付费字体合集】设计必备！！！
+### 微:NoBug1024 
+
+
+课程介绍：
+
+
+〖课程目录〗:
+
+- ├──阿里巴巴普惠体  
+- |   ├──Alibaba-PuHuiTi-Bold.otf  6.22M
+- |   ├──Alibaba-PuHuiTi-Heavy.otf  1.58M
+- |   ├──Alibaba-PuHuiTi-Light.otf  6.43M
+- |   ├──Alibaba-PuHuiTi-Medium.otf  6.26M
+- |   └──Alibaba-PuHuiTi-Regular.otf  6.60M
+- ├──方正字体  
+- |   ├──FangZhengFangSongJianTi-1.ttf  3.55M
+- |   ├──FangZhengHeiTiJianTi-1.ttf  2.85M
+- |   ├──FangZhengKaiTiJianTi-1.ttf  3.74M
+- |   └──FangZhengShuSongJianTi-1.ttf  2.75M
+- ├──华康字体（阿里巴巴平台商家免费）  
+- |   ├──华康POP1体W5.TTF  5.36M
+- |   ├──华康POP1体W9.TTF  5.20M
+- |   ├──华康POP3体W12.ttf  6.00M
+- |   ├──华康标题宋W9(P).TTF  3.33M
+- |   ├──华康布丁体简W12.ttc  3.78M
+- |   ├──华康彩带体W7-GB.ttc  2.59M
+- |   ├──华康儿风体.ttc  8.04M
+- |   ├──华康方圆体W7-GB.ttc  3.04M
+- |   ├──华康钢笔体W2-GB.ttc  4.55M
+- |   ├──华康海报体简W12.ttc  2.49M
+- |   ├──华康黑体W12.TTF  2.69M
+- |   ├──华康黑体W3.TTF  2.74M
+- |   ├──华康黑体W5.TTF  2.72M
+- |   ├──华康黑体W7.TTF  2.71M
+- |   ├──华康黑体W9.TTF  2.69M
+- |   ├──华康金文体W3.ttf  7.13M
+- |   ├──华康楷体W5.TTF  4.50M
+- |   ├──华康勘亭流W9.TTF  3.92M
+- |   ├──华康隶书体W7.TTF  8.76M
+- |   ├──华康俪金黑W8.TTF  1.91M
+- |   ├──华康龙门石碑W9.ttc  5.01M
+- |   ├──华康墨字体 Std W9.ttf  9.34M
+- |   ├──华康翩翩体W3.otf  26.09M
+- |   ├──华康翩翩体W5.otf  25.52M
+- |   ├──华康少女文字W3.TTF  8.86M
+- |   ├──华康饰艺体W7-GB.ttc  2.70M
+- |   ├──华康手札体W7.ttf  24.37M
+- |   ├──华康手札体简W5.ttf  45.54M
+- |   ├──华康瘦金体简W3.ttc  4.95M
+- |   ├──华康宋体W12(P).TTF  2.46M
+- |   ├──华康宋体W3-A.TTF  16.21M
+- |   ├──华康宋体W5(P).TTF  2.70M
+- |   ├──华康宋体W7(P).TTF  2.71M
+- |   ├──华康唐风隶W5.TTF  8.35M
+- |   ├──华康娃娃体W5(P).TTF  2.55M
+- |   ├──华康魏碑W7(P).TTF  4.33M
+- |   ├──华康新综艺W7(P).TTF  1.54M
+- |   ├──华康新综艺体W9.TTF  3.53M
+- |   ├──华康雅宋体W9(P).TTF  2.37M
+- |   ├──华康雅艺体W6-B5.TTF  4.82M
+- |   ├──华康圆体W3(P).TTF  3.01M
+- |   ├──华康圆体W5(P).TTF  2.80M
+- |   ├──华康圆体W7(P).TTF  2.80M
+- |   ├──华康圆体W9(P).TTF  3.25M
+- |   └──华康正颜楷体W7-B5.TTF  10.63M
+- ├──极细  
+- |   └──NagomiGokubosoGothic-ExtraLight.otf  1.59M
+- ├──刻石錄  
+- |   ├──I-Ming-5-10-2.ttf  24.47M
+- |   ├──I-Ngaan-2.ttf  8.54M
+- |   └──I-PenCrane-B-2.ttf  12.48M
+- ├──濑户字体  
+- |   └──SetoFont-1.ttf  11.90M
+- ├──联盟起艺卢帅正锐黑体  
+- |   └──免费商用的标题字体：联盟起艺卢帅正锐黑体.ttf  1.32M
+- ├──明朝系列  
+- |   ├──花园明朝  
+- |   |   ├──HanaMinA.ttf  21.71M
+- |   |   └──HanaMinB.ttf  29.32M
+- |   ├──源界明朝  
+- |   |   └──genkai-mincho-2.ttf  21.95M
+- |   └──装甲明朝  
+- |   |   └──SoukouMincho-2.ttf  9.36M
+- ├──明体系列  
+- |   ├──源流明体  
+- |   |   ├──GenRyuMinJP-Bold-2.ttf  8.01M
+- |   |   ├──GenRyuMinJP-ExtraLight-3.ttf  8.04M
+- |   |   ├──GenRyuMinJP-Heavy-4.ttf  7.86M
+- |   |   ├──GenRyuMinJP-Light-5.ttf  8.07M
+- |   |   ├──GenRyuMinJP-Medium-6.ttf  8.07M
+- |   |   ├──GenRyuMinJP-Regular-7.ttf  8.07M
+- |   |   └──GenRyuMinJP-SemiBold-8.ttf  8.05M
+- |   ├──源样明体  
+- |   |   ├──GenYoMinJP-Bold-2.ttf  7.27M
+- |   |   ├──GenYoMinJP-ExtraLight-3.ttf  7.23M
+- |   |   ├──GenYoMinJP-Heavy-4.ttf  7.23M
+- |   |   ├──GenYoMinJP-Light-5.ttf  7.24M
+- |   |   ├──GenYoMinJP-Medium-6.ttf  7.27M
+- |   |   ├──GenYoMinJP-Regular-7.ttf  7.24M
+- |   |   └──GenYoMinJP-SemiBold-8.ttf  7.28M
+- |   └──源云明体  
+- |   |   ├──GenWanMinJP-Light-2.ttf  17.20M
+- |   |   ├──GenWanMinJP-Medium-3.ttf  17.17M
+- |   |   ├──GenWanMinJP-Regular-4(1).ttf  17.20M
+- |   |   └──GenWanMinJP-SemiBold-5.ttf  17.14M
+- ├──沐瑶软笔手写体  
+- |   └──Muyao-Softbrush-2.ttf  4.46M
+- ├──庞门正道  
+- |   ├──PangMenZhengDaoBiaoTiTi-1.ttf  1.83M
+- |   └──PangMenZhengDaoCuShuTi-2.ttf  10.58M
+- ├──全字库  
+- |   └──QuanZiKuShuoWenJieZiZiTi-2.ttf  9.90M
+- ├──锐字真言体  
+- |   └──锐字真言体免费商用.otf  960.25kb
+- ├──手写体  
+- |   └──手书体.ttf  8.60M
+- ├──思源字体  
+- |   ├──思源黑体  
+- |   |   ├──SourceHanSansSC-Bold_1.otf  16.19M
+- |   |   ├──SourceHanSansSC-ExtraLight_1.otf  14.43M
+- |   |   ├──SourceHanSansSC-Heavy_1.otf  16.52M
+- |   |   ├──SourceHanSansSC-Light_1.otf  15.47M
+- |   |   ├──SourceHanSansSC-Medium_1.otf  15.72M
+- |   |   ├──SourceHanSansSC-Normal_1.otf  15.59M
+- |   |   └──SourceHanSansSC-Regular_1.otf  15.65M
+- |   ├──思源柔黑  
+- |   |   ├──GenJyuuGothic-Bold.ttf  11.04M
+- |   |   ├──GenJyuuGothic-ExtraLight.ttf  9.54M
+- |   |   ├──GenJyuuGothic-Heavy.ttf  11.41M
+- |   |   ├──GenJyuuGothic-Light.ttf  9.91M
+- |   |   ├──GenJyuuGothic-Medium.ttf  10.53M
+- |   |   ├──GenJyuuGothic-Monospace-Bold.ttf  11.03M
+- |   |   ├──GenJyuuGothic-Monospace-ExtraLight.ttf  9.54M
+- |   |   ├──GenJyuuGothic-Monospace-Heavy.ttf  11.40M
+- |   |   ├──GenJyuuGothic-Monospace-Light.ttf  9.90M
+- |   |   ├──GenJyuuGothic-Monospace-Medium.ttf  10.52M
+- |   |   ├──GenJyuuGothic-Monospace-Normal.ttf  9.99M
+- |   |   ├──GenJyuuGothic-Monospace-Regular.ttf  10.06M
+- |   |   ├──GenJyuuGothic-Normal.ttf  10.00M
+- |   |   ├──GenJyuuGothic-P-Bold.ttf  11.19M
+- |   |   ├──GenJyuuGothic-P-ExtraLight.ttf  9.69M
+- |   |   ├──GenJyuuGothic-P-Heavy.ttf  11.57M
+- |   |   ├──GenJyuuGothic-P-Light.ttf  10.05M
+- |   |   ├──GenJyuuGothic-P-Medium.ttf  10.68M
+- |   |   ├──GenJyuuGothic-P-Normal.ttf  10.14M
+- |   |   ├──GenJyuuGothic-P-Regular.ttf  10.21M
+- |   |   └──GenJyuuGothic-Regular.ttf  10.06M
+- |   ├──思源宋体  
+- |   |   ├──SourceHanSerifCN-Bold-2.otf  11.23M
+- |   |   ├──SourceHanSerifCN-ExtraLight-3.otf  9.89M
+- |   |   ├──SourceHanSerifCN-Heavy-4.otf  10.78M
+- |   |   ├──SourceHanSerifCN-Light-5.otf  10.58M
+- |   |   ├──SourceHanSerifCN-Medium-6.otf  10.85M
+- |   |   ├──SourceHanSerifCN-Regular-1.otf  10.74M
+- |   |   └──SourceHanSerifCN-SemiBold-7.otf  10.92M
+- |   └──思源真黑  
+- |   |   ├──GenShinGothic-Bold.ttf  4.73M
+- |   |   ├──GenShinGothic-ExtraLight.ttf  4.80M
+- |   |   ├──GenShinGothic-Heavy.ttf  4.74M
+- |   |   ├──GenShinGothic-Light.ttf  4.77M
+- |   |   ├──GenShinGothic-Medium.ttf  4.73M
+- |   |   ├──GenShinGothic-Monospace-Bold.ttf  4.72M
+- |   |   ├──GenShinGothic-Monospace-ExtraLight.ttf  4.80M
+- |   |   ├──GenShinGothic-Monospace-Heavy.ttf  4.73M
+- |   |   ├──GenShinGothic-Monospace-Light.ttf  4.77M
+- |   |   ├──GenShinGothic-Monospace-Medium.ttf  4.73M
+- |   |   ├──GenShinGothic-Monospace-Normal.ttf  4.75M
+- |   |   ├──GenShinGothic-Monospace-Regular.ttf  4.74M
+- |   |   ├──GenShinGothic-Normal.ttf  4.75M
+- |   |   ├──GenShinGothic-P-Bold.ttf  4.80M
+- |   |   ├──GenShinGothic-P-ExtraLight.ttf  4.88M
+- |   |   ├──GenShinGothic-P-Heavy.ttf  4.81M
+- |   |   ├──GenShinGothic-P-Light.ttf  4.85M
+- |   |   ├──GenShinGothic-P-Medium.ttf  4.81M
+- |   |   ├──GenShinGothic-P-Normal.ttf  4.83M
+- |   |   ├──GenShinGothic-P-Regular.ttf  4.82M
+- |   |   └──GenShinGothic-Regular.ttf  4.74M
+- ├──台湾明体  
+- |   └──台湾明体cwTeXMing.ttf  9.83M
+- ├──王汉宗字体  
+- |   ├──WCL-01.ttf  22.70M
+- |   ├──WCL-02.ttf  6.67M
+- |   ├──WCL-03.ttf  13.93M
+- |   ├──WCL-04.ttf  21.27M
+- |   ├──WCL-05.ttf  20.62M
+- |   ├──WCL-06.ttf  10.53M
+- |   ├──WCL-07.ttf  12.13M
+- |   ├──WCL-08.ttf  10.12M
+- |   ├──WCL-09.ttf  11.69M
+- |   ├──WCL-10.ttf  11.45M
+- |   ├──wp010-05.ttf  12.74M
+- |   ├──wp010-08.ttf  13.10M
+- |   ├──wp110-05.ttf  3.31M
+- |   ├──wp110-08.ttf  3.41M
+- |   ├──wp210-05.ttf  928.88kb
+- |   ├──wp210-08.ttf  950.48kb
+- |   ├──wp310-05.ttf  472.81kb
+- |   ├──wp310-08.ttf  479.32kb
+- |   ├──wt001.ttf  8.85M
+- |   ├──wt002.ttf  8.53M
+- |   ├──wt003.ttf  9.08M
+- |   ├──wt004.ttf  8.92M
+- |   ├──wt005.ttf  8.47M
+- |   ├──wt006.ttf  8.24M
+- |   ├──wt009.ttf  7.92M
+- |   ├──wt011.ttf  6.28M
+- |   ├──wt014.ttf  6.65M
+- |   ├──wt021.ttf  8.06M
+- |   ├──wt024.ttf  9.27M
+- |   ├──wt028.ttf  4.76M
+- |   ├──wt034.ttf  3.74M
+- |   ├──wt040.ttf  6.14M
+- |   ├──wt064.ttf  8.18M
+- |   ├──wt071.ttf  9.17M
+- |   ├──wtcc02.ttf  7.77M
+- |   ├──wtcc15.ttf  3.45M
+- |   ├──wtg-06cut1x.ttf  6.97M
+- |   ├──wthc06.ttf  5.99M
+- |   ├──wts11.ttf  10.08M
+- |   ├──wts43.ttf  10.03M
+- |   ├──wts47.ttf  10.25M
+- |   └──wts55.ttf  9.09M
+- ├──贤二体  
+- |   └──XianErTi-2.ttf  10.52M
+- ├──杨任东竹石体  
+- |   ├──杨任东竹石体-Bold.ttf  3.77M
+- |   ├──杨任东竹石体-Extralight.ttf  4.35M
+- |   ├──杨任东竹石体-Heavy.ttf  3.86M
+- |   ├──杨任东竹石体-Light.ttf  4.34M
+- |   ├──杨任东竹石体-Medium.ttf  3.98M
+- |   ├──杨任东竹石体-Regular.ttf  4.10M
+- |   └──杨任东竹石体-Semibold.ttf  3.83M
+- └──站酷系列  
+- |   ├──ZCOOL Addict Italic 01.ttf  55.96kb
+- |   ├──ZCOOL Addict Italic 02.ttf  55.82kb
+- |   ├──站酷高端黑修订151105.ttf  3.77M
+- |   ├──站酷酷黑.ttf  825.54kb
+- |   ├──站酷快乐体2016修订版.ttf  1.59M
+- |   ├──站酷庆科黄油体.ttf  9.29M
+- |   ├──站酷文艺体.ttf  3.79M
+- |   └──站酷小薇LOGO体.otf  3.87M
